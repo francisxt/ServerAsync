@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\bin\Debug\Cliente.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\bin\Debug\Cliente.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\bin\Debug\Protocolo.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\bin\Debug\Protocolo.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\obj\Debug\Cliente.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\obj\Debug\Cliente.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Cliente\obj\Debug\Cliente.FrmLogin.resources

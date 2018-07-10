@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Protocolo\bin\Debug\Protocolo.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Protocolo\bin\Debug\Protocolo.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Protocolo\obj\Debug\Protocolo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Protocolo\obj\Debug\Protocolo.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\ServerAsync\Protocolo\obj\Debug\Protocolo.pdb
